@@ -26,5 +26,7 @@ In this project we have used a Convolutional Neural Netowork, First the model is
 ## Dataset 
 - https://drive.google.com/file/d/19TYmAbZD1uDvoBJlXbTwosd_i0ibyLiD/view?usp=sharing
 
+## Results Screenshots:-
 
+<img src="https://github.com/AnuragSomani1611/IMAGES/blob/main/Screenshot%20(335).png">
 
