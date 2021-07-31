@@ -40,8 +40,6 @@ In this project we have used a Convolutional Neural Netowork, First the model is
 ### Prediction and changes:
 <img src="https://github.com/AnuragSomani1611/IMAGES/blob/main/photo_2021-07-31_12-14-11.jpg">
 
-<img src="https://github.com/AnuragSomani1611/IMAGES/blob/main/photo_2021-07-31_12-14-27.jpg">
-
 <img src="https://github.com/AnuragSomani1611/IMAGES/blob/main/photo_2021-07-31_12-14-32.jpg">
 
 
