@@ -28,5 +28,20 @@ In this project we have used a Convolutional Neural Netowork, First the model is
 
 ## Results Screenshots:-
 
+### Home page:
 <img src="https://github.com/AnuragSomani1611/IMAGES/blob/main/Screenshot%20(335).png">
+
+### Introduction page:
+<img src="https://github.com/AnuragSomani1611/IMAGES/blob/main/Screenshot%20(336).png">
+
+### Model launch page:
+<img src="https://github.com/AnuragSomani1611/IMAGES/blob/main/Screenshot%20(337).png">
+
+### Prediction and changes:
+<img src="https://github.com/AnuragSomani1611/IMAGES/blob/main/photo_2021-07-31_12-14-11.jpg">
+
+<img src="https://github.com/AnuragSomani1611/IMAGES/blob/main/photo_2021-07-31_12-14-27.jpg">
+
+<img src="https://github.com/AnuragSomani1611/IMAGES/blob/main/photo_2021-07-31_12-14-32.jpg">
+
 
